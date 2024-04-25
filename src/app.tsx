@@ -1,24 +1,11 @@
-import React from 'react';
-import logo from './assets/icons/logo.svg';
-import {SApp, SHeader, SLink, SLogo} from "./assets/styles/app.styles";
+import ProductListContainer from './components/product/list/product-list.container';
+import './fonts/stylesheet.css'
 
 function App() {
     return (
-        <SApp>
-            <SHeader>
-                <SLogo src={logo} alt="logo"/>
-                <p>
-                    Edit <code>src/App.tsx</code> and save to reload.
-                </p>
-                <SLink
-                    href="https://reactjs.org"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Learn React
-                </SLink>
-            </SHeader>
-        </SApp>
+        <div>
+            <ProductListContainer />
+        </div>
     );
 }
 
