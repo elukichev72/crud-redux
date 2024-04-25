@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/crud-redux/static/css/main.3df825a4.css",
+    "main.js": "/crud-redux/static/js/main.7a62c437.js",
+    "static/media/Hero-Bold.ttf": "/crud-redux/static/media/Hero-Bold.17cd8f7840090acbaeb6.ttf",
+    "static/media/Hero-Regular.ttf": "/crud-redux/static/media/Hero-Regular.e7de38fb0b59857c16cd.ttf",
+    "static/media/Hero-Light.ttf": "/crud-redux/static/media/Hero-Light.5da03185f926f6717e20.ttf",
+    "index.html": "/crud-redux/index.html",
+    "static/media/cross.svg": "/crud-redux/static/media/cross.38a2c2c73705e6d8ac119666764b0809.svg",
+    "main.3df825a4.css.map": "/crud-redux/static/css/main.3df825a4.css.map",
+    "main.7a62c437.js.map": "/crud-redux/static/js/main.7a62c437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df825a4.css",
+    "static/js/main.7a62c437.js"
+  ]
+}
